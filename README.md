@@ -1,2 +1,1 @@
-# FLAMES
-A Tool To Find  the compatibility between you and your partner
+THis Tool was Coded with love by `swagkarna` for his crush `Yohani`
