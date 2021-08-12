@@ -17,7 +17,7 @@ print("""
                             | __| | |__   / _ \  | |\/| || _| \__ \           GITHUB    : github.com/swagkarna   
                             |_|   |____| /_/ \_\ |_|  |_||___||___/           My Crush  : YOHANI          
 
-                            A Tool To Find  the compatibility between you and your partner 
+                            A powerful python tool for predicting your future with your crush
 """)
 
 yourname = str(input("Enter your Name : "))
